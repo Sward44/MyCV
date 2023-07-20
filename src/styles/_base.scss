@@ -1,0 +1,67 @@
+:root {
+    --font-family: "Muli", sans-serif;
+    --light: #c6e6f1;
+    --primary: #2071e7;
+    --dark: #2980b9;
+    --text: #333;
+    --background: #fafafa;
+    --hint: #999;
+    --border: #ddd;
+    --shining: #fff600;
+  }
+
+html {
+    font-size: 62.5%;
+}
+
+body {
+    font-family: var(--font-family);
+    color: var(--text);
+    font-size: 1.6rem;
+    padding: 0;
+    margin: 0;
+
+}
+
+p {
+    margin: 0.5rem 0;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    margin: 0.5rem 0;
+}
+
+ul {
+    list-style: none;
+}
+
+hr {
+    margin-bottom: 2rem;
+}
+
+a {
+    color: var(--text);
+    text-decoration: none;
+    transition: all 0.25s;
+    &:hover {
+        opacity: 0.75;
+        i {
+            transition: all 0.25s;
+            scale: 115%;
+            color: var(--text);
+        }
+        img {
+            transition: all 0.25s;
+            scale: 125%;
+        }
+    }
+}
+
+img {
+    max-width: 60%;
+}

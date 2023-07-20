@@ -1,0 +1,144 @@
+{
+  "document":
+    {
+      "title": "David Launay - Entrepreneur"
+    },
+  "header":
+    {
+      "title": "Data analyste - Intégrateur full-stack"
+    },
+  "aside":
+    {
+      "contact":
+        {
+          "phone": "Téléphone :",
+          "address": "Adresse :",
+          "linkedin": "https://www.linkedin.com/in/david-launay-178576b1/?locale=fr_FR"
+        },
+      "education":
+        {
+          "img_dyma": "Dyma - Formation de developpement site web.",
+          "dyma": "DYMA - En ligne",
+          "full_stack": "Full Stack depuis 2022",
+          "img_yomi": "Yomi - Formation complète de site e-commerce.",
+          "yomi": "Yomi - En ligne",
+          "e-commerce": "Formation complète d'e-commerce depuis 2021",
+          "img-wse": "Wall Street English -Formation d'apprentissage d'anglais.",
+          "wse-en": "<0>Niveau B2 - 2019<br/>Niveau B1 - 2017 à 2018</0>",
+          "img-bea": "British English Academy - Formation d'anglais.",
+          "bea-en": "Niveau B1 - 2018",
+          "img-cesi": "CESI - Formation d'ingénieur généraliste spécialisation amélioration continue.",
+          "cesi": "Niveau 1 - 2015 à 2017",
+          "img-afpi": "AFPI -Formation productique mécanique Bac et BEP.",
+          "afpi": "Niveau 4 - 1996 à 2000"
+        },
+      "computing":
+        {
+          "html-css": "Language utiliser dans les navigateurs : HTML et CSS.",
+          "sass": "Compilation du CSS après écriture SCSS.",
+          "js": "Language utilisé pour animé dans les navigateurs : JS.",
+          "react": "Language utilisé pour créer compiler et créer des designs modernes : JSX.",
+          "php": "PHP est un langage utilisé pour compiler le langage html, css, javascipt côté serveur.",
+          "linux": "Plateforme fonctionant sous Linux avec des définiton proches entre les OS.",
+          "vba": "Visual Basic Application est la définition VBA pour programmé les application d'Office.",
+          "office": "Office est la suite de logiciel bureautique Windows.",
+          "aras": "Product Life Management est la définition de PLM dont Aras est une plateforme issue d'Oracle.",
+          "enovia": "Product Life Management est la définition de PLM dont Enovia est une plateforme issue de Dassault Systèmes.",
+          "sap": "Enterprise Ressource Planning est la définition dont SAP est un plateforme utilisés notament dans l'aéronautique.",
+          "enovia-cad": "Catia est un outils de développement des produits issue de Dassault Systèmes.",
+          "autocad": "Autocad est un outils de développement des produits."
+        },
+      "langue":
+        {
+          "language":"LANGUES",
+          "france": "Drapeau de la France",
+          "uk": "Drapeau de l'Angleterre"
+        },
+      "hobbies":
+        {
+          "title": "CENTRE D'INTERET",
+          "travel": "Faire le tour du monde",
+          "computing": "Aime la programmation",
+          "marche": "Adore la marche",
+          "peche": "Aime pêcher",
+          "chasse": "Aime la chasse avec un arc"
+
+        }
+    },
+  "main":
+    {
+      "title_profil" : "PROFIL PROFESSIONNEL",
+      "title_experience" : "EXPÉRIENCES PROFESSIONNELLES",
+      "result" : "Results"
+    },
+  "synthese":
+    {
+      "description" : "Expert en management transversal de projets, analyse de données, création de pages web et amélioration continue, j'ai acquis une vaste expérience professionnelle dans l'industrie aérospatiale. Je suis un esprit créatif, autonome, curieux et adaptable, cherchant à rejoindre une équipe dynamique pour m'investir dans de nouveaux projets professionnels. Mon objectif est d'aider l'entreprise à atteindre la satisfaction clientèle et augmenter ses profits."
+    },
+  "ge":
+    {
+      "title": "Consultant - Data analyste",
+      "date": "<0>Dec. 2021 -<br/>Jui. 2023</0>",
+      "logo": "Logo General Electric",
+      "description": "Recruté chez General Electric, j'ai travaillé dans le département de gestion de l'amélioration continue du produit. J'ai créé des packages de modules de sous-traitance et géré les relations avec les partenaires. J'ai également effectué l'analyse des unités avec une sélection des unités dans les projets, en utilisant des outils tels que VBA puis j'ai tracé l'ensemble des comparaisons à l'aide de téléchargements de toutes les unités et effectués l'analyses avec VBA.",
+      "result": "<0>Relation fournisseurs dans un contexte international ;</0><1>Expert avec VBA et Office ;</1><2>Utilisation système PLM ;</2><3>Optimisation des processus: 200 k€ / an de bénéfices.</3>"
+    },
+  "juignet":
+    {
+      "title": "Technicien méthodes",
+      "date": "<0>Jul. 2019 -<br/>Avr. 2021</0>",
+      "logo": "Logo Juignet",
+      "description": "J'ai également travaillé en tant que coach pour des équipes et j'ai piloté la mise en place d'un ERP pour la gestion des achats. J'ai mis en place une automatisation des plannings sur Excel via VBA pour améliorer l'efficacité, la productivité et anticipé les recrutements de l'équipe. En outre, j'ai rédigé et déployé des fiches de sécurité pour garantir le respect des normes de sécurité en vigueur et j'ai programmé des machines pour améliorer les processus de production et optimiser les performances.",
+      "result": "<0>Relation clients / fournisseurs ;</0><1>Management des équipes ;</1><2>Intermédiaire d'utilisation VBA ;</2><3>Redaction fiche sécurité.</3>"
+    },
+  "rabas":
+    {
+      "title": "Ingénieur processus",
+      "date": "<0>Jul. 2019 -<br/>Avr. 2021</0>",
+      "logo": "Logo Rabas",
+      "description": "En tant que manager d'équipes d'amélioration et coach, j'ai suivi la méthode DINAMIC pour optimiser l'usinage de la masse et améliorer les changements de production sur 15 machines. J'ai également créé des lignes plus flexibles, réduisant ainsi les erreurs et augmentant la production. J'ai déployé des annexes ERP telles que Satelites Helios pour suivre en temps réel les changements de plannings et réduire le stock global.",
+      "result": "<0>Validation du diplome Ingénieur Généraliste ;</0><1>Management des équipes ;</1><2>Surveillance des gains ;</2><3>Aquisition d'utilisation VBA ;</3><4>Optimisation des processus: 120 k€ / an de bénéfices.</4>"
+    },
+  "airbus_nantes":
+    {
+      "title": "Technicien de production",
+      "date": "<0>Jul. 2011 -<br/>Oct. 2016</0>",
+      "logo": "Logo Airbus",
+      "description": "Expérience dans l'assemblage de caissons centraux de voilures pour les programmes A320, A330 et A350. Tâches effectuées : constitution des panneaux, assemblages semi-automatisés sur machine, finition des panneaux et démoulages. J'ai également été chargé de remplacer des postes sur les lignes de production des caissons, du départ des lignes à la livraison (de Nantes à St Nazaire), ainsi que de gérer la logistique des éléments ne nécessitant aucune modification pour tous les programmes.",
+      "result": "<0>Travail dans des équipes ;</0><1>Découverte de nouveaux métiers.</1>"
+    },
+  "aerolia":
+    {
+      "title": "Technicien d'amélioration",
+      "date": "<0>Jan. 2009 -<br/>Jun. 2011</0>",
+      "logo": "Logo Airbus pour illustré Aerolia",
+      "description": "En tant que technicien d'amélioration continue, j'ai joué un rôle dans la participation dans les réunions LEAN et amélioré les machines et l'atelier grâce aux méthodes du LEAN telles que SMED (Single Minute Exchange of Die), TPM (Total Productive Maintenance) et 5S (Seiri/Eliminer, Seiton/Ranger, Seiso/Nettoyer, Seiketsu/Standardiser, Shitsuke/Respecter). J'ai également été chargé du management et du coaching des actions LEAN dans l'ensemble de l'atelier. J'ai planifié et mis en œuvre un local d'amélioration servant de pôle d'exécution pour les ateliers de fabrication de profilé en aluminium. Grâce à ces actions, nous avons pu améliorer considérablement la qualité de production, réduire les temps d'arrêt et augmenter la productivité de l'atelier. De plus, j'ai été en charge du suivi des indicateurs de performance clés, ainsi que de la formation et du développement des équipes de production.",
+      "result": "<0>Management d'équipes ;</0><1>Découverte des méthodes d'amélioration ;</1><2>Gestion d'un projet.</2>"
+    },
+  "airbus_st_nazaire":
+    {
+      "title": "Technicien de fabrication",
+      "date": "<0>Avr. 2003 -<br/>Dec. 2008</0>",
+      "logo": "Logo Airbus",
+      "description": "En tant qu'agent de fabrication des pièces en aluminium, alu-lithium et titane, j'ai travaillé sur la production de petites sections, maximum 150 mm au carrés sur des longueurs allant jusqu'à 10 m. J'ai collaboré avec le service méthodes pour démontrer de nouveaux processus de fabrication, j'ai également coaché et formé les nouveaux arrivants. J'ai suivi de près les performances des équipements pour assurer une qualité optimale des pièces produites.",
+      "result": "<0>Travail en équipe ;</0><1>Tutorat des nouveaux arrivant ;</1><2>Utilisation des nouveaux logiciels et pupitres.</2>"
+    },
+  "chapuis":
+    {
+      "title": "Outilleur - Fraiseur - Tourneur - Rectifieur - Dessinateur",
+      "date": "<0>Oct. 2001 -<br/>Mar. 2003</0>",
+      "description": "Études, fabrications, assemblages, livraisons et essais de moules d'injection plastique dans les secteurs de l'automobile, de l'aérospatiale, de la cosmétique et d’autres secteurs. Travail de la planche à dessin, les débits, les usinages traditionnels (tournage - fraisage), programmation sur commande numérique, fraisage, perçage, rectification, montage et livraison avec essais.",
+      "result": "<0>Relation fournisseurs / clients ;</0><1>Aquisition de rigueur dans le moules.</1>"
+    },
+  "slam":
+    {
+      "title": "Tourneur - Fraiseur - Rectifieur - Ajusteur",
+      "date": "<0>Sep. 1996 -<br/>Sep. 2001</0>",
+      "description": "Fabrication de pièces, outils et machines spéciales de sous-traitance aéronautique, navale et d’autres secteurs. Travail sur tours 2 axes à commande traditionnelle et numérique. Travail sur fraiseuses de 3 axes à 5 axes à commande traditionnelle et numérique. Ajustage des pièces en fin de process. Rectification des pièces.",
+      "result": "<0>Validation du Bac et BEP Productique ;</0><1>Apprentissage des métiers de l'usinage dans divers secteurs.</1>"
+    },
+  "footer":{
+    "title": "POUR VOUS RECONTACTER",
+    "placeholder": "Votre email"
+  }
+}

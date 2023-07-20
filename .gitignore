@@ -7,14 +7,14 @@
 .pnp.js
 
 #developpement
-/public
-/src
+# /public
+# /src
 
 # testing
 /coverage
 
 # production
-
+# /build
 
 
 # misc

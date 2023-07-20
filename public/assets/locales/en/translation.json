@@ -1,0 +1,145 @@
+{
+  "document":
+    {
+      "title": "David Launay - Businessman"
+    },
+  "header":
+    {
+      "title": "Data analyst - Full-Stack integrator"
+    },
+  "aside":
+    {
+      "contact":
+        {
+          "phone": "Phone :",
+          "address": "Address :",
+          "linkedin": "https://www.linkedin.com/in/david-launay-178576b1/"
+        },
+      "education":
+        {
+          "img_dyma": "Dyma - Website development training.",
+          "dyma": "DYMA - On line",
+          "full_stack": "Full Stack since 2022",
+          "img_yomi": "Yomi - Full e-commerce site training.",
+          "yomi": "Yomi - On ligne",
+          "e-commerce": "E-commerce since 2021",
+          "img-wse": "Wall Street English - English language training course.",
+          "wse-en": "<0>Level B2 - 2019<br/>Level B1 - 2017 to 2018</0>",
+          "img-bea": "British English Academy - English language training course.",
+          "bea-en": "Level B1 - 2018",
+          "img-cesi": "CESI - Training as a general engineer specialising in continuous improvement.",
+          "cesi": "Level 1 - 2015 à 2017",
+          "img-afpi": "AFPI - Mechanical production training Bac and BEP.",
+          "afpi": "Level 4 - 1996 à 2000"
+        },
+      "computing":
+        {
+          "html-css": "Language used in browsers: HTML and CSS.",
+          "sass": "Compiling CSS after writing SCSS.",
+          "js": "Language used for animation in browsers: JS.",
+          "react": "Language used to compile and create modern designs: JSX.",
+          "php": "PHP is a language used to compile html, css and javascipt on the server side.",
+          "linux": "Platform running under Linux with similar definitions between OS.",
+          "vba": "Visual Basic Application is the VBA definition for programming Office applications.",
+          "office": "Office is the Windows office software suite.",
+          "aras": "Product Life Management is the definition of PLM, of which Aras is a platform derived from Oracle.",
+          "enovia": "Product Life Management is the definition of PLM, of which Enovia is a platform developed by Dassault Systèmes.",
+          "sap": "Enterprise Resource Planning is the definition of SAP as a platform used in the aeronautics industry in particular.",
+          "enovia-cad": "Catia is a product development tool from Dassault Systèmes.",
+          "autocad": "Autocad is a product development tool."
+        },
+      "langue":
+        {
+          "language":"LANGUAGES",
+          "france": "French flag",
+          "uk": "United Kingdom flag"
+        },
+      "hobbies":
+        {
+          "title": "HOBBIES",
+          "travel": "Around the world",
+          "computing": "Enjoys programming",
+          "marche": "Love walking",
+          "peche": "Likes to fish",
+          "chasse": "Likes hunting with a bow"
+
+        }
+
+    },
+  "main":
+    {
+      "title_profil": "CAREER PROFILE",
+      "title_experience" : "WORK EXPERIENCE",
+      "result" : "Results"
+    },
+  "synthese":
+    {
+      "description": "As an expert in cross-functional project management, data analysis, web page creation and continuous improvement, I have acquired extensive professional experience in the aerospace industry. I'm a creative, autonomous, curious and adaptable person, looking to join a dynamic team and get involved in new professional projects. My aim is to help the company achieve customer satisfaction and increase its profits."
+    },
+  "ge":
+    {
+      "title": "Consultant - Data analyst",
+      "date":"<0>Dec. 2021 -<br/>Jun. 2023</0>",
+      "logo": "Logo General Electric",
+      "description": "Recruited by General Electric, I worked in the continuous product improvement management department. I created subcontract module packages and managed relationships with partners. I also carried out unit analysis with a selection of the units in the projects, using tools such as VBA. I then plotted all the comparisons using downloads of all the units and carried out the analysis using VBA.",
+      "result": "<0>Supplier relations in an international context ;</0><1>Expert with VBA and Office ;</1><2>Using the PLM system ;</2><3>Process optimisation: 200 k€ / year in benefits.</3>"
+    },
+  "juignet":
+    {
+      "title": "Methods engineer",
+      "date": "<0>Jul. 2019 -<br/>Apr. 2021</0>",
+      "logo": "Logo Juignet",
+      "description": "I've also worked as a coach for teams and managed the implementation of an ERP system for purchasing management. I set up automated planning in Excel using VBA to improve efficiency and productivity, and anticipated team recruitment. In addition, I drafted and deployed safety sheets to ensure compliance with current safety standards and programmed machines to improve production processes and optimise performance.",
+      "result": "<0>Customer/supplier relations ;</0><1>Team management ;</1><2>Intermediate VBA ;</2><3>Drafting safety data sheets.</3>"
+    },
+  "rabas":
+    {
+      "title": "Process engineer",
+      "date": "<0>Nov. 2016 -<br/>Jun. 2017</0>",
+      "logo": "Logo Rabas",
+      "description": "As an improvement team manager and coach, I used the DINAMIC method to optimise mass machining and improve production changeovers on 15 machines. I also created more flexible lines, reducing errors and increasing production. I deployed ERP add-ons such as Satelites Helios to monitor schedule changes in real time and reduce overall stock.",
+      "result": "<0>Validation of the Generalist Engineering diploma ;</0><1>Team management ;</1><2>Profit monitoring ;</2><3>Acquisition of VBA use;</3><4>Process optimisation: 120 k€ / year in benefits.</4>"
+    },
+  "airbus_nantes":
+    {
+      "title": "Production technician",
+      "date": "<0>Jul. 2011 -<br/>Oct. 2016</0>",
+      "logo": "Logo Airbus",
+      "description": "Experience in assembling wing centre sections for the A320, A330 and A350 programmes. Tasks carried out: making up the panels, semi-automated assembly on the machine, finishing the panels and demoulding. I was also responsible for replacing workstations on the casing production lines, from the start of the lines to delivery (from Nantes to St Nazaire), as well as managing the logistics of components requiring no modification for all programmes.",
+      "result": "<0>Working in teams;</0><1>Discovering new professions.</1>"
+    },
+  "aerolia":
+    {
+      "title": "Improvement technician",
+      "date": "<0>Jan. 2009 -<br/>Jun. 2011</0>",
+      "logo": "Airbus logo to illustrate Aerolia",
+      "description": "As a continuous improvement technician, I played a role in participating in LEAN meetings and improving machines and the workshop using LEAN methods such as SMED (Single Minute Exchange of Die), TPM (Total Productive Maintenance) and 5S (Seiri/Sort, Seiton/Straighten, Seiso/Shine, Seiketsu/Standardize, Shitsuke/Sustain). I was also responsible for managing and coaching LEAN actions throughout the workshop. I planned and implemented an improvement room serving as an execution centre for the aluminium profile manufacturing workshops. Thanks to these actions, we were able to significantly improve production quality, reduce downtime and increase the workshop's productivity. In addition, I was in charge of monitoring key performance indicators, as well as training and developing the production teams.",
+      "result": "<0>Team management ;</0><1>Discovering improvement methods ;</1><2>Project management.</2>"
+    },
+  "airbus_st_nazaire":
+    {
+      "title": "Manufacturing technician",
+      "date": "<0>Apr. 2003 -<br/>Dec. 2008</0>",
+      "logo": "Airbus logo",
+      "description": "As a manufacturing agent for aluminium, aluminium-lithium and titanium parts, I worked on the production of small sections, maximum 150 mm squared in lengths of up to 10 m. I worked with the methods department to demonstrate new manufacturing processes, and I also coached and trained new arrivals. I closely monitored the performance of the equipment to ensure optimum quality of the parts produced.",
+      "result": "<0>Teamwork ;</0><1>Tutoring for new arrivals;</1><2>Use of new software and desks.</2>"
+    },
+  "chapuis":
+    {
+      "title": "Toolmaker - Milling machine - Turner - Grinder - Draughtsman",
+      "date": "<0>Oct. 2001 -<br/>Mar. 2003</0>",
+      "description": "Design, manufacture, assembly, delivery and testing of plastic injection moulds in the automotive, aerospace, cosmetics and other sectors. Working from the drawing board, cutting, traditional machining (turning - milling), CNC programming, milling, drilling, grinding, assembly and delivery with testing.",
+      "result": "<0>Supplier / customer relations ;</0><1>Acquiring rigour in the mould.</1>"
+    },
+  "slam":
+    {
+      "title": "Turner - Milling machine - Grinder - Adjuster",
+      "date": "<0>Sep. 1996 -<br/>Sep. 2001</0>",
+      "description": "Manufacture of parts, tools and special machines for aeronautical, naval and other subcontracting sectors. Work on conventional and numerically controlled 2-axis lathes. Work on 3-axis to 5-axis milling machines with traditional and numerical control. Adjustment of parts at the end of the process. Rectification of parts.",
+      "result": "<0>Validation of the Bac and BEP Productique;</0><1>Apprenticeship in machining trades in various sectors.</1>"
+    },
+  "footer":{
+      "title": "TO GET IN TOUCH WITH YOU",
+      "placeholder": "Your e-mail"
+    }
+}
