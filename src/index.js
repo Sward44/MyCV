@@ -19,7 +19,7 @@ i18next
     },
     debug: true,
     lng: document.querySelector("html").lang,
-    fallbackLng: "fr",
+    // fallbackLng: "fr",
     backend: {
       loadPath: "/assets/locales/{{lng}}/translation.json",
     },

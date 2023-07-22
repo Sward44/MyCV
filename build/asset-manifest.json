@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.e84bab5b.css",
-    "main.js": "/static/js/main.ed7e9b97.js",
+    "main.js": "/static/js/main.d7de2a51.js",
     "static/js/787.39b839ef.chunk.js": "/static/js/787.39b839ef.chunk.js",
     "static/media/david-launay-mini.png": "/static/media/david-launay-mini.f3f181b3470830b4d344.png",
     "static/media/autocad-icon.svg": "/static/media/autocad-icon.0b2da7da162044b0d378242cb92772f0.svg",
@@ -17,6 +17,7 @@
     "static/media/around.svg": "/static/media/around.43c26df2819249845b70644fb3aa8b35.svg",
     "static/media/afpi-icon.svg": "/static/media/afpi-icon.c1b8736093bad9f56e9a09df45c98e3f.svg",
     "static/media/wse-icon.svg": "/static/media/wse-icon.78a1ce510e2be9b65b5e1e5bd1bf9728.svg",
+    "index.html": "/index.html",
     "static/media/react -logo.svg": "/static/media/react -logo.b8fe3a72ab327bbdda2087b5cbb11192.svg",
     "static/media/html-css-icon.svg": "/static/media/html-css-icon.8990335478de98008e012702ab5ba801.svg",
     "static/media/vb-icon.svg": "/static/media/vb-icon.00c8019a7ccf8ba467428dbb3d5d6d65.svg",
@@ -28,7 +29,6 @@
     "static/media/yomi-logo.svg": "/static/media/yomi-logo.749fbe02b2577b95b3548a50a2a85207.svg",
     "static/media/uk-rectangulaire.svg": "/static/media/uk-rectangulaire.4cd66aaa033663cf43e7d1a93f6f8daa.svg",
     "static/media/hunter-hunting-with-bow-and-arrow.svg": "/static/media/hunter-hunting-with-bow-and-arrow.fde0ecbb1fd4bd5204588a09dfd0de1d.svg",
-    "index.html": "/index.html",
     "static/media/js-icon.svg": "/static/media/js-icon.b02f2226cedac3cd211a68d79b7c572f.svg",
     "static/media/dyma-icon.svg": "/static/media/dyma-icon.6f7f43d2f90f612cfe4d328c198d53b6.svg",
     "static/media/computer.svg": "/static/media/computer.bbae2fcd75006c36b4224db14ca24d52.svg",
@@ -36,11 +36,11 @@
     "static/media/getFetch.cjs": "/static/media/getFetch.40f37ddea2378391108f.cjs",
     "static/media/office-icon.svg": "/static/media/office-icon.6a080dbfcb1166c8ba89cc775a2d602f.svg",
     "main.e84bab5b.css.map": "/static/css/main.e84bab5b.css.map",
-    "main.ed7e9b97.js.map": "/static/js/main.ed7e9b97.js.map",
+    "main.d7de2a51.js.map": "/static/js/main.d7de2a51.js.map",
     "787.39b839ef.chunk.js.map": "/static/js/787.39b839ef.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e84bab5b.css",
-    "static/js/main.ed7e9b97.js"
+    "static/js/main.d7de2a51.js"
   ]
 }
