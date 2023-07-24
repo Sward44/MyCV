@@ -28,7 +28,7 @@
 /* Large desktop */
 
 @mixin xl {
-    @media (min-width: 1200px) {
+    @media (min-width: 980px) {
         @content;
     }
 }

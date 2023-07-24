@@ -6,7 +6,7 @@ export default function Footer() {
   return (
     <footer>
       <h2 class="title-small ">{i18next.t("footer.title")}</h2>
-      <form>
+      {/* <form>
         <i className="far fa-envelope-open prefix "></i>
         <input
           id="email-text"
@@ -17,7 +17,10 @@ export default function Footer() {
         <button id="click-button">
           <i className="fa-solid fa-paper-plane postfix "></i>
         </button>
-      </form>
+      </form> */}
+      <a href="mailto:davidlaunay567@gmail.com">
+        <p className="title-couleur">davidlaunay567@gmail.com</p>
+      </a>
     </footer>
   );
 }
