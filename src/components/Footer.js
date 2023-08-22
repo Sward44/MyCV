@@ -32,16 +32,13 @@ export default function Footer({ onNewEmailReceived }) {
   async function submit(values) {
     try {
       clearErrors();
-      const response = await fetch(
-        " mongoimport --uri  mongodb+srv://dbUser:zuu7Ug.7VRSW4Az@atlascluster.7rhrtx9.mongodb.net/User  --collection  <enter_collection_name>  --type  <enter JSON/CSV/TSV>   --file  <enter path/to/file>",
-        {
-          method: "POST",
-          headers: {
-            "Content-Type": "application/json",
-          },
-          body: JSON.stringify(values),
-        }
-      );
+      const response = await fetch("https://restapi.fr/api/email", {
+        method: "POST",
+        headers: {
+          "Content-Type": "application/json",
+        },
+        body: JSON.stringify(values),
+      });
       if (response.ok) {
         const newEmailFooter = await response.json();
         newEmailFooter.done = !newEmailFooter.done;

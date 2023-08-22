@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.fb96f34a.css",
-    "main.js": "/static/js/main.1675c1de.js",
+    "main.js": "/static/js/main.e16c4e64.js",
     "static/js/787.39b839ef.chunk.js": "/static/js/787.39b839ef.chunk.js",
     "static/media/david-launay-mini.png": "/static/media/david-launay-mini.f3f181b3470830b4d344.png",
     "static/media/autocad-icon.svg": "/static/media/autocad-icon.0b2da7da162044b0d378242cb92772f0.svg",
@@ -36,11 +36,11 @@
     "static/media/getFetch.cjs": "/static/media/getFetch.40f37ddea2378391108f.cjs",
     "static/media/office-icon.svg": "/static/media/office-icon.6a080dbfcb1166c8ba89cc775a2d602f.svg",
     "main.fb96f34a.css.map": "/static/css/main.fb96f34a.css.map",
-    "main.1675c1de.js.map": "/static/js/main.1675c1de.js.map",
+    "main.e16c4e64.js.map": "/static/js/main.e16c4e64.js.map",
     "787.39b839ef.chunk.js.map": "/static/js/787.39b839ef.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.fb96f34a.css",
-    "static/js/main.1675c1de.js"
+    "static/js/main.e16c4e64.js"
   ]
 }
