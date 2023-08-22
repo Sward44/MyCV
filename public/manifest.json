@@ -1,6 +1,6 @@
 {
-  "short_name": "React App",
-  "name": "Create React App Sample",
+  "short_name": "MyCV",
+  "name": "David Launay - My Curriculum Vitae",
   "icons": [
     {
       "src": "favicon-32.ico",
@@ -16,6 +16,11 @@
       "src": "david-launay-icon-512x512.png",
       "type": "image/png",
       "sizes": "512x512"
+    },
+    {
+      "src": "david-launay-reseau-sociaux.webp",
+      "type": "image/webp",
+      "sizes": "1200x628"
     }
   ],
   "start_url": ".",

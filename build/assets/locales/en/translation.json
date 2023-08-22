@@ -78,6 +78,7 @@
     },
   "ge":
     {
+      "_id": "8",
       "title": "Consultant - Data analyst",
       "date":"<0>Dec. 2021 -<br/>Jun. 2023</0>",
       "logo": "Logo General Electric",
@@ -86,6 +87,7 @@
     },
   "juignet":
     {
+      "_id": "7",
       "title": "Methods engineer",
       "date": "<0>Jul. 2019 -<br/>Apr. 2021</0>",
       "logo": "Logo Juignet",
@@ -94,6 +96,7 @@
     },
   "rabas":
     {
+      "_id": "6",
       "title": "Process engineer",
       "date": "<0>Nov. 2016 -<br/>Jun. 2017</0>",
       "logo": "Logo Rabas",
@@ -102,6 +105,7 @@
     },
   "airbus_nantes":
     {
+      "_id": "5",
       "title": "Production technician",
       "date": "<0>Jul. 2011 -<br/>Oct. 2016</0>",
       "logo": "Logo Airbus",
@@ -110,6 +114,7 @@
     },
   "aerolia":
     {
+      "_id": "4",
       "title": "Improvement technician",
       "date": "<0>Jan. 2009 -<br/>Jun. 2011</0>",
       "logo": "Airbus logo to illustrate Aerolia",
@@ -118,6 +123,7 @@
     },
   "airbus_st_nazaire":
     {
+      "_id": "3",
       "title": "Manufacturing technician",
       "date": "<0>Apr. 2003 -<br/>Dec. 2008</0>",
       "logo": "Airbus logo",
@@ -126,6 +132,7 @@
     },
   "chapuis":
     {
+      "_id": "2",
       "title": "Toolmaker - Milling machine - Turner - Grinder - Draughtsman",
       "date": "<0>Oct. 2001 -<br/>Mar. 2003</0>",
       "description": "Design, manufacture, assembly, delivery and testing of plastic injection moulds in the automotive, aerospace, cosmetics and other sectors. Working from the drawing board, cutting, traditional machining (turning - milling), CNC programming, milling, drilling, grinding, assembly and delivery with testing.",
@@ -133,6 +140,7 @@
     },
   "slam":
     {
+      "_id": "1",
       "title": "Turner - Milling machine - Grinder - Adjuster",
       "date": "<0>Sep. 1996 -<br/>Sep. 2001</0>",
       "description": "Manufacture of parts, tools and special machines for aeronautical, naval and other subcontracting sectors. Work on conventional and numerically controlled 2-axis lathes. Work on 3-axis to 5-axis milling machines with traditional and numerical control. Adjustment of parts at the end of the process. Rectification of parts.",
@@ -141,5 +149,31 @@
   "footer":{
       "title": "EMAIL CONTACT AT",
       "placeholder": "Your e-mail"
+    },
+  "formulaire":{
+      "title": "Required if *",
+      "site": "Website",
+      "name": "Lastname *",
+      "surname": "Firstname *",
+      "email": "E-mail",
+      "phone": "Phone",
+      "comments": "Comments",
+      "commentPlaceholder": "Thank you for leaving a comment !",
+      "submit": "Submit",
+      "thank": "We have received your email and will reply as soon as possible.",
+      "message": {
+        "email": {
+          "required": "This field is required",
+          "email":"The email must match"
+        },
+        "phone": {
+          "number": "Must be numbers"
+        },
+        "generic": {
+          "else": "Server code issues",
+          "catch": "Server issues"
+        }
+      }
+  
     }
 }

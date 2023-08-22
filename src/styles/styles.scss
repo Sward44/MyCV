@@ -1,7 +1,9 @@
 @use "base" as *;
 @use "classes" as *;
+@use "flex" as *;
 @use "main" as *;
 @use "media-queries" as *;
+@use "utils.scss" as *;
 @use "reset" as *;
 
 .grid-container {
@@ -322,6 +324,14 @@ footer {
             margin-bottom: 2rem;
         }
     }
+    a {
+       .titleCouleur {
+        display:inline;
+        color: white;
+        } 
+    }
+    
+
     form {
         display: flex;
         align-items: center;
